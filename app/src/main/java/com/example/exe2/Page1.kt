@@ -32,7 +32,7 @@ fun Page1() {
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Image(painter =image , contentDescription = null, contentScale = ContentScale.Crop)
-            Text(text = "Selamat Datang")
+            Text(text = "Selamat Datang Push")
             Spacer(modifier = Modifier.height(16.dp))
             Button(onClick = {}) {
                 Text(text = "Next")
