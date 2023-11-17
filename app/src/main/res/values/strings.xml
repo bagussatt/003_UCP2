@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Exe2</string>
+    <string name="name">Name</string>
+    <string name="NIM">NIM</string>
+    <string name="Kosen">Konsentrasi</string>
+    <string name="jdls">Judul Skripsi</string>
+    <string name="Dosen1">Dosen Pembimbing 1</string>
+    <string name="Dosen2">Dosen Pembimbing 2</string>
+    <string name="NamaDo1">Dr </string>
+
+
+
+
+
+
+</resources>
